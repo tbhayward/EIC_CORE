@@ -1,5 +1,8 @@
 # EIC_CORE
 
+!!!! Still in development. Binning and files may not be exact yet. !!!!
+
+
 In each directory histograms are recorded in root files. Histograms are produced for three sets of energies: 5x100, 10x275 and 18x275 GeV (electron on proton). Each set of energies has generated (particle) and reconstructed (track) events for pions and kaons. Only particles where CORE is estimated to have 3 sigma pion/kaon separation (as defined by the rapidity, "eta"), are kept:
 
 p < 2 GeV, -3.5 < eta < 3.5;
