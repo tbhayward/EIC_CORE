@@ -2,9 +2,9 @@
 
 In each directory histograms are recorded in root files. Histograms are produced for three sets of energies: 5x100, 10x275 and 18x275 GeV (electron on proton). Each set of energies has generated (particle) and reconstructed (track) events for pions and kaons. Only particles where CORE is estimated to have 3 sigma pion/kaon separation (as defined by the rapidity, "eta"), are kept:
 
-p < 2 GeV, -3.5 < eta < 3.5
-2 < p < 6, -1.65 < eta < 3.5
-6 < p < 50, 1.57 < eta < 3.5
+p < 2 GeV, -3.5 < eta < 3.5;
+2 < p < 6, -1.65 < eta < 3.5;
+6 < p < 50, 1.57 < eta < 3.5;
 
 Binning was chosen to match the EIC Yellow Report. Bin edges defined below (so there are n-1 points):
 
